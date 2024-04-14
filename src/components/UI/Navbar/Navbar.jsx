@@ -5,7 +5,7 @@ const Navbar = () => {
         Dylan Avilla
       </h1>
       <img
-        src='../images/menu.png'
+        src='menu.png'
         className='w-[35px] h-[35px] object-cover lg:hidden'
       />
     </nav>

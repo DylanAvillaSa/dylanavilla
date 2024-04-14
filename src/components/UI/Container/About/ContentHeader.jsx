@@ -3,7 +3,7 @@ const ContentHeader = () => {
     <>
       <figure className='bg-bg-white lg:bg-transparent rounded-full w-[50%] lg:w-full bg-transparent'>
         <img
-          src='../images/dylanavilla.jpg'
+          src='dylanavilla.jpg'
           className='object-contain lg:hidden rounded-full w-[220px] h-[220px]'
         />
 
@@ -22,14 +22,14 @@ const ContentHeader = () => {
                   download
                   className='flex items-center gap-3'>
                   Download CV
-                  <img src='../images/main bg/download.png' />
+                  <img src='main bg/download.png' />
                 </a>
               </button>
             </div>
           </section>
           <div className='hidden lg:flex lg:bg-bg-white lg:rounded-full lg:w-[30%] lg:justify-center lg:items-center lg:p-2'>
             <img
-              src='../images/main bg/logo.png'
+              src='logo.png'
               className='object-cover hidden lg:block lg:w-[400px] lg:h-[472.65px]'
             />
           </div>

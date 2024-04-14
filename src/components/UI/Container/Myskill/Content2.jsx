@@ -24,11 +24,11 @@ const Content2 = () => {
 
         <section className='hidden lg:w-full lg:flex lg:relative '>
           <img
-            src='../images/main bg/items.png'
+            src='items.png'
             className='absolute '
           />
           <img
-            src='../images/main bg/about.png'
+            src='about.png'
             className='lg:w-[412.68px] lg:z-20 lg:object-contain'
           />
         </section>
@@ -37,19 +37,19 @@ const Content2 = () => {
       {/* image skills layout mobile*/}
       <figure className='flex items-center w-full justify-center gap-10 lg:hidden'>
         <img
-          src='../images/html.png'
+          src='html.png'
           className='w-[35px] h-[35px] object-cover'
         />
         <img
-          src='../images/css.png'
+          src='css.png'
           className='w-[35px] h-[35px] object-cover'
         />
         <img
-          src='../images/javascript.png'
+          src='javascript.png'
           className='w-[35px] h-[35px] object-cover'
         />
         <img
-          src='../images/reactjs.png'
+          src='reactjs.png'
           className='w-[35px] h-[35px] object-cover'
         />
       </figure>

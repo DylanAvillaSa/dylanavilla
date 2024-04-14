@@ -36,7 +36,7 @@ const Footer = () => {
           Got a project in <span className='text-bg-green'> mind? </span>
         </h1>
         <img
-          src='../images/footer.png'
+          src='footer.png'
           className='w-[40%]'
         />
       </section>
